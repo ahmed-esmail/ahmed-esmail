@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">📛 My name is Ahmed Esmail and I'm a Full Stack .NET Developer from Egypt</h1>
+<h1 align="center">👋 My name is Ahmed Esmail and I'm a Full Stack .NET Developer from Egypt</h1>
 
 ###
 
