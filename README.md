@@ -43,6 +43,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/ahmed-esmail/ahmed-esmail/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/ahmed-esmail/ahmed-esmail/main/snake.yml" alt="Snake animation" />
 
 ###
