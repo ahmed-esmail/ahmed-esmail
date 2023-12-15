@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 I love using Software as a solution for every Problem<br>🧑‍🎓 I’m currently work as freelancer<br>🤔 I’m currently open for: An Intern or a new job opportunity, <br>🤓 Always learning new things</p>
+<p align="left">🧑‍💻 I love using Software as a solution for every Problem<br>🧑‍🎓 I’m currently work as .NET developer in GlobeMed Group<br>🤔 Always learning new things</p>
 
 ###
 
